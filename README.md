@@ -8,7 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Book Town**
 
 - 🌱 I’m currently learning **Programming languages: C, C++, Python Microsoft Tools: Outlook, Ms-Office Web Technologies: HTML, CSS, JavaScript Data Management: MySQL, DBMS**
 
