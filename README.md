@@ -1,4 +1,4 @@
-[logo](https://github.com/princekr99/princekr99/blob/main/White%20and%20Navy%20Clean%20Graphic%20Furniture%20and%20Decor%20Banner%20(2).png)
+[logo](https://github.com/princekr99/princekr99/blob/main/p.png)
 
 <h1 align="center">Hi 👋, I'm Prince Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
