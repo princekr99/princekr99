@@ -1,4 +1,4 @@
-[logo](https://github.com/princekr99/princekr99/blob/main/p.png)
+[logo](https://github.com/princekr99/princekr99/blob/main/p.jpeg)
 
 <h1 align="center">Hi 👋, I'm Prince Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
